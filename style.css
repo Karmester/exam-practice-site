@@ -46,3 +46,8 @@ select {
 	-webkit-appearance: none !important;
 	border-radius: 0;
 }
+
+body {
+	background-color: #ffeedf;
+	color: #145434;
+}
